@@ -1,0 +1,349 @@
+output_data/8ZZ6GrzWkw0/600.wav|Wakefield Student, Tim Spicer: Good Morning. I would like to extend a warm
+output_data/8ZZ6GrzWkw0/2734.wav|welcome to President Barack Obama,
+output_data/8ZZ6GrzWkw0/4767.wav|Secretary of education Arnie Duncan, White House staff,
+output_data/8ZZ6GrzWkw0/8800.wav|school board members, county board members,
+output_data/8ZZ6GrzWkw0/12166.wav|superintendent Dr. Patrick Murphy, senior staff,
+output_data/8ZZ6GrzWkw0/15867.wav|principle George Jackson, Wakefield faculty and of course
+output_data/8ZZ6GrzWkw0/19867.wav|my fellow classmates.
+output_data/8ZZ6GrzWkw0/26533.wav|I am honored to have been chosen to speak before my
+output_data/8ZZ6GrzWkw0/28667.wav|classmates as well as the students across America today.
+output_data/8ZZ6GrzWkw0/32567.wav|Over the past three years, I've taken advantage of every
+output_data/8ZZ6GrzWkw0/35066.wav|academic, extracurricular and community opportunity that has
+output_data/8ZZ6GrzWkw0/39066.wav|been presented to me.
+output_data/8ZZ6GrzWkw0/41467.wav|As I reflect, a scholar expressed disappointment in my
+output_data/8ZZ6GrzWkw0/44266.wav|writing and challenged me to do better; being reassigned to
+output_data/8ZZ6GrzWkw0/47033.wav|another class was not an option.
+output_data/8ZZ6GrzWkw0/49133.wav|After that experience, I was determined to excel.
+output_data/8ZZ6GrzWkw0/52200.wav|Therefore, I managed to succeed in the advanced placement class
+output_data/8ZZ6GrzWkw0/55767.wav|by maintaining focus along with using a
+output_data/8ZZ6GrzWkw0/57867.wav|setback as constructive energy.
+output_data/8ZZ6GrzWkw0/60266.wav|As I stand before my peers today, I want you to know that
+output_data/8ZZ6GrzWkw0/63767.wav|excellent education opportunities may be handed
+output_data/8ZZ6GrzWkw0/66467.wav|to us, but as students we must take responsibilities
+output_data/8ZZ6GrzWkw0/69100.wav|for our future.
+output_data/8ZZ6GrzWkw0/70767.wav|We may be taught but we must take ownership of our learning.
+output_data/8ZZ6GrzWkw0/74100.wav|As senior class president I encourage all of our freshmen to
+output_data/8ZZ6GrzWkw0/77200.wav|take advantage of all the opportunity's that Wakefield
+output_data/8ZZ6GrzWkw0/79567.wav|High School has to offer.
+output_data/8ZZ6GrzWkw0/82066.wav|Along with the inspiration I've taken from President Obama,
+output_data/8ZZ6GrzWkw0/85266.wav|I would not be standing here, before you, to introduce the
+output_data/8ZZ6GrzWkw0/88467.wav|President of the United States if I had not been here at
+output_data/8ZZ6GrzWkw0/91834.wav|Wakefield high school, in Arlington Virginia, pursuing my
+output_data/8ZZ6GrzWkw0/94433.wav|education. Just as we are fortunate to have President
+output_data/8ZZ6GrzWkw0/97300.wav|Obama to come here to Wakefield today to speak to us,
+output_data/8ZZ6GrzWkw0/100600.wav|we are also fortunate that after he leaves, we will continue to
+output_data/8ZZ6GrzWkw0/103967.wav|have the opportunities and support that Wakefield
+output_data/8ZZ6GrzWkw0/106800.wav|gives to all of us.
+output_data/8ZZ6GrzWkw0/108800.wav|At this time it is with great honor and pride that I ask
+output_data/8ZZ6GrzWkw0/112133.wav|everyone to stand to welcome the --
+output_data/8ZZ6GrzWkw0/119300.wav|-- to welcome the man that proved yes we can.
+output_data/8ZZ6GrzWkw0/122600.wav|Ladies and Gentleman please join me in welcoming the President of
+output_data/8ZZ6GrzWkw0/126000.wav|the United States of America, Barack Obama.
+output_data/8ZZ6GrzWkw0/148900.wav|The President: Hello, everybody!
+output_data/8ZZ6GrzWkw0/153400.wav|Thank you.
+output_data/8ZZ6GrzWkw0/155033.wav|Thank you.
+output_data/8ZZ6GrzWkw0/156867.wav|Thank you, everybody. All right, everybody go ahead
+output_data/8ZZ6GrzWkw0/158900.wav|and have a seat. How is everybody doing today?
+output_data/8ZZ6GrzWkw0/166533.wav|How about Tim Spicer?
+output_data/8ZZ6GrzWkw0/173767.wav|I am here with students at
+output_data/8ZZ6GrzWkw0/176934.wav|Wakefield High School in Arlington, Virginia.
+output_data/8ZZ6GrzWkw0/180700.wav|And we've got students tuning in from all across America,
+output_data/8ZZ6GrzWkw0/185633.wav|from kindergarten through 12th grade.
+output_data/8ZZ6GrzWkw0/188166.wav|And I am just so glad that all could join us today.
+output_data/8ZZ6GrzWkw0/191700.wav|And I want to thank Wakefield for being such an outstanding
+output_data/8ZZ6GrzWkw0/194500.wav|host. Give yourselves a big round of applause.
+output_data/8ZZ6GrzWkw0/202400.wav|I know that for many of you, today is the first
+output_data/8ZZ6GrzWkw0/207734.wav|day of school. And for those of you in kindergarten,
+output_data/8ZZ6GrzWkw0/209500.wav|or starting middle or high school,
+output_data/8ZZ6GrzWkw0/212066.wav|it's your first day in a new school,
+output_data/8ZZ6GrzWkw0/214266.wav|so it's understandable if you're a little nervous.
+output_data/8ZZ6GrzWkw0/218567.wav|I imagine there are some seniors out there who are feeling pretty
+output_data/8ZZ6GrzWkw0/220734.wav|good right now --
+output_data/8ZZ6GrzWkw0/222934.wav|-- with just one more year to go.
+output_data/8ZZ6GrzWkw0/226700.wav|And no matter what grade you're in,
+output_data/8ZZ6GrzWkw0/228734.wav|some of you are probably wishing it were still summer and you
+output_data/8ZZ6GrzWkw0/231533.wav|could've stayed in bed just a little bit longer this morning.
+output_data/8ZZ6GrzWkw0/235867.wav|I know that feeling.
+output_data/8ZZ6GrzWkw0/239567.wav|When I was young, my family lived overseas.
+output_data/8ZZ6GrzWkw0/243066.wav|I lived in Indonesia for a few years.
+output_data/8ZZ6GrzWkw0/245367.wav|And my mother, she didn't have the money to send me where all
+output_data/8ZZ6GrzWkw0/248834.wav|the American kids went to school,
+output_data/8ZZ6GrzWkw0/250800.wav|but she thought it was important for me to keep up with an
+output_data/8ZZ6GrzWkw0/254567.wav|American education. So she decided to teach me extra 
+output_data/8ZZ6GrzWkw0/258399.wav|lessons herself, Monday through Friday.
+output_data/8ZZ6GrzWkw0/261934.wav|But because she had to go to work,
+output_data/8ZZ6GrzWkw0/263400.wav|the only time she could do it was at 4:30 in the morning.
+output_data/8ZZ6GrzWkw0/267900.wav|Now, as you might imagine, I wasn't too happy about getting
+output_data/8ZZ6GrzWkw0/270333.wav|up that early.
+output_data/8ZZ6GrzWkw0/272000.wav|And a lot of times, I'd fall asleep right there at
+output_data/8ZZ6GrzWkw0/274300.wav|the kitchen table. But whenever I'd complain, my mother would
+output_data/8ZZ6GrzWkw0/277700.wav|just give me one of those looks and she'd say, This is no 
+output_data/8ZZ6GrzWkw0/280767.wav|picnic for me either, buster.
+output_data/8ZZ6GrzWkw0/285033.wav|So I know that some of you are still adjusting to being back at
+output_data/8ZZ6GrzWkw0/288100.wav|school. But I'm here today because I have something
+output_data/8ZZ6GrzWkw0/291500.wav|important to discuss with you.
+output_data/8ZZ6GrzWkw0/293767.wav|I'm here because I want to talk with you about your education
+output_data/8ZZ6GrzWkw0/297367.wav|and what's expected of all of you in this new school year.
+output_data/8ZZ6GrzWkw0/302467.wav|Now, I've given a lot of speeches about education.
+output_data/8ZZ6GrzWkw0/304667.wav|And I've talked about responsibility a lot.
+output_data/8ZZ6GrzWkw0/308767.wav|I've talked about teachers' responsibility for inspiring
+output_data/8ZZ6GrzWkw0/312700.wav|students and pushing you to learn.
+output_data/8ZZ6GrzWkw0/315433.wav|I've talked about your parents' responsibility for making sure
+output_data/8ZZ6GrzWkw0/319166.wav|you stay on track, and you get your homework done,
+output_data/8ZZ6GrzWkw0/321133.wav|and don't spend every waking hour in front of the TV or
+output_data/8ZZ6GrzWkw0/325100.wav|with the Xbox. I've talked a lot about your government's
+output_data/8ZZ6GrzWkw0/330266.wav|responsibility for setting high standards, and supporting 
+output_data/8ZZ6GrzWkw0/333500.wav|teachers and principals, and turning around schools that 
+output_data/8ZZ6GrzWkw0/336300.wav|aren't working, where students aren't getting the opportunities 
+output_data/8ZZ6GrzWkw0/339900.wav|that they deserve.
+output_data/8ZZ6GrzWkw0/341900.wav|But at the end of the day, we can have the most dedicated
+output_data/8ZZ6GrzWkw0/345066.wav|teachers, the most supportive parents,
+output_data/8ZZ6GrzWkw0/347700.wav|the best schools in the world -- and none of it will make a
+output_data/8ZZ6GrzWkw0/351433.wav|difference, none of it will matter unless all of you fulfill
+output_data/8ZZ6GrzWkw0/356300.wav|your responsibilities, unless you show up to those schools,
+output_data/8ZZ6GrzWkw0/361333.wav|unless you pay attention to those teachers,
+output_data/8ZZ6GrzWkw0/363700.wav|unless you listen to your parents and grandparents and
+output_data/8ZZ6GrzWkw0/366433.wav|other adults and put in the hard work it takes to succeed.
+output_data/8ZZ6GrzWkw0/372667.wav|That's what I want to focus on today:
+output_data/8ZZ6GrzWkw0/375233.wav|the responsibility each of you has for your education.
+output_data/8ZZ6GrzWkw0/379633.wav|I want to start with the responsibility you have
+output_data/8ZZ6GrzWkw0/381667.wav|to yourself. Every single one of you has something that you're
+output_data/8ZZ6GrzWkw0/386033.wav|good at. Every single one of you has something to offer.
+output_data/8ZZ6GrzWkw0/390900.wav|And you have a responsibility to yourself to
+output_data/8ZZ6GrzWkw0/393700.wav|discover what that is.
+output_data/8ZZ6GrzWkw0/396266.wav|That's the opportunity an education can provide.
+output_data/8ZZ6GrzWkw0/400400.wav|Maybe you could be a great writer -- maybe even good enough
+output_data/8ZZ6GrzWkw0/403700.wav|to write a book or articles in a newspaper -- but you might not
+output_data/8ZZ6GrzWkw0/407233.wav|know it until you write that English paper -- that English
+output_data/8ZZ6GrzWkw0/409367.wav|class paper that's assigned to you.
+output_data/8ZZ6GrzWkw0/414567.wav|Maybe you could be an innovator or an inventor -- maybe even
+output_data/8ZZ6GrzWkw0/417300.wav|good enough to come up with the next iPhone or the new medicine
+output_data/8ZZ6GrzWkw0/420533.wav|or vaccine -- but you might not know it until you do your
+output_data/8ZZ6GrzWkw0/424467.wav|project for your science class.
+output_data/8ZZ6GrzWkw0/427767.wav|Maybe you could be a mayor or a senator or a Supreme Court
+output_data/8ZZ6GrzWkw0/431633.wav|justice -- but you might not know that until you join student
+output_data/8ZZ6GrzWkw0/435734.wav|government or the debate team.
+output_data/8ZZ6GrzWkw0/439533.wav|And no matter what you want to do with your life,
+output_data/8ZZ6GrzWkw0/441700.wav|I guarantee that you'll need an education to do it.
+output_data/8ZZ6GrzWkw0/445233.wav|You want to be a doctor, or a teacher, or a police officer?
+output_data/8ZZ6GrzWkw0/448934.wav|You want to be a nurse or an architect,
+output_data/8ZZ6GrzWkw0/450934.wav|a lawyer or a member of our military?
+output_data/8ZZ6GrzWkw0/453367.wav|You're going to need a good education for every single one
+output_data/8ZZ6GrzWkw0/456233.wav|of those careers.
+output_data/8ZZ6GrzWkw0/458000.wav|You cannot drop out of school and just drop into a good job.
+output_data/8ZZ6GrzWkw0/463066.wav|You've got to train for it and work for it and learn for it.
+output_data/8ZZ6GrzWkw0/468400.wav|And this isn't just important for your own life and
+output_data/8ZZ6GrzWkw0/470333.wav|your own future. What you make of your education will decide
+output_data/8ZZ6GrzWkw0/474500.wav|nothing less than the future of this country.
+output_data/8ZZ6GrzWkw0/477934.wav|The future of America depends on you.
+output_data/8ZZ6GrzWkw0/482133.wav|What you're learning in school today will determine whether we
+output_data/8ZZ6GrzWkw0/484900.wav|as a nation can meet our greatest challenges
+output_data/8ZZ6GrzWkw0/488000.wav|in the future. You'll need the knowledge and problem-solving
+output_data/8ZZ6GrzWkw0/491800.wav|skills you learn in science and math to cure diseases like 
+output_data/8ZZ6GrzWkw0/495967.wav|cancer and AIDS, and to develop new energy technologies and 
+output_data/8ZZ6GrzWkw0/498567.wav|protect our environment.
+output_data/8ZZ6GrzWkw0/500767.wav|You'll need the insights and critical-thinking skills you
+output_data/8ZZ6GrzWkw0/503800.wav|gain in history and social studies to fight poverty and
+output_data/8ZZ6GrzWkw0/506433.wav|homelessness, crime and discrimination,
+output_data/8ZZ6GrzWkw0/508867.wav|and make our nation more fair and more free.
+output_data/8ZZ6GrzWkw0/512667.wav|You'll need the creativity and ingenuity you develop in all
+output_data/8ZZ6GrzWkw0/515633.wav|your classes to build new companies that will create new
+output_data/8ZZ6GrzWkw0/518799.wav|jobs and boost our economy.
+output_data/8ZZ6GrzWkw0/520933.wav|We need every single one of you to develop your talents and your
+output_data/8ZZ6GrzWkw0/524033.wav|skills and your intellect so you can help us old folks solve our
+output_data/8ZZ6GrzWkw0/529333.wav|most difficult problems.
+output_data/8ZZ6GrzWkw0/531967.wav|If you don't do that -- if you quit on school -- you're not
+output_data/8ZZ6GrzWkw0/536300.wav|just quitting on yourself, you're quitting on your country.
+output_data/8ZZ6GrzWkw0/540500.wav|Now, I know it's not always easy to do well in school.
+output_data/8ZZ6GrzWkw0/543800.wav|I know a lot of you have challenges in your lives right
+output_data/8ZZ6GrzWkw0/545767.wav|now that can make it hard to focus on your schoolwork.
+output_data/8ZZ6GrzWkw0/550567.wav|I get it.
+output_data/8ZZ6GrzWkw0/551100.wav|I know what it's like.
+output_data/8ZZ6GrzWkw0/553000.wav|My father left my family when I was two years old,
+output_data/8ZZ6GrzWkw0/556266.wav|and I was raised by a single mom who had to work and who
+output_data/8ZZ6GrzWkw0/559333.wav|struggled at times to pay the bills and wasn't always able to
+output_data/8ZZ6GrzWkw0/561900.wav|give us the things that other kids had.
+output_data/8ZZ6GrzWkw0/565266.wav|There were times when I missed having a father in my life.
+output_data/8ZZ6GrzWkw0/569033.wav|There were times when I was lonely and I felt
+output_data/8ZZ6GrzWkw0/570667.wav|like I didn't fit in.
+output_data/8ZZ6GrzWkw0/572967.wav|So I wasn't always as focused as I should have been on school,
+output_data/8ZZ6GrzWkw0/575967.wav|and I did some things I'm not proud of,
+output_data/8ZZ6GrzWkw0/577633.wav|and I got in more trouble than I should have.
+output_data/8ZZ6GrzWkw0/580700.wav|And my life could have easily taken a turn for the worse.
+output_data/8ZZ6GrzWkw0/586367.wav|But I was -- I was lucky.
+output_data/8ZZ6GrzWkw0/588667.wav|I got a lot of second chances, and I had the opportunity to go
+output_data/8ZZ6GrzWkw0/591233.wav|to college and law school and follow my dreams.
+output_data/8ZZ6GrzWkw0/595000.wav|My wife, our First Lady Michelle Obama, she has a similar story.
+output_data/8ZZ6GrzWkw0/599300.wav|Neither of her parents had gone to college,
+output_data/8ZZ6GrzWkw0/601967.wav|and they didn't have a lot of money.
+output_data/8ZZ6GrzWkw0/604166.wav|But they worked hard, and she worked hard,
+output_data/8ZZ6GrzWkw0/606133.wav|so that she could go to the best schools in this country.
+output_data/8ZZ6GrzWkw0/610300.wav|Some of you might not have those advantages.
+output_data/8ZZ6GrzWkw0/612200.wav|Maybe you don't have adults in your life who give you the
+output_data/8ZZ6GrzWkw0/615700.wav|support that you need.
+output_data/8ZZ6GrzWkw0/617767.wav|Maybe someone in your family has lost their job and there's not
+output_data/8ZZ6GrzWkw0/620166.wav|enough money to go around.
+output_data/8ZZ6GrzWkw0/622300.wav|Maybe you live in a neighborhood where you don't feel safe,
+output_data/8ZZ6GrzWkw0/625600.wav|or have friends who are pressuring you to do things you
+output_data/8ZZ6GrzWkw0/628667.wav|know aren't right.
+output_data/8ZZ6GrzWkw0/630834.wav|But at the end of the day, the circumstances of your life --
+output_data/8ZZ6GrzWkw0/635333.wav|what you look like, where you come from,
+output_data/8ZZ6GrzWkw0/637100.wav|how much money you have, what you've got going on at home --
+output_data/8ZZ6GrzWkw0/641467.wav|none of that is an excuse for neglecting your homework or
+output_data/8ZZ6GrzWkw0/644133.wav|having a bad attitude in school.
+output_data/8ZZ6GrzWkw0/646834.wav|That's no excuse for talking back to your teacher,
+output_data/8ZZ6GrzWkw0/649600.wav|or cutting class, or dropping out of school.
+output_data/8ZZ6GrzWkw0/652100.wav|There is no excuse for not trying.
+output_data/8ZZ6GrzWkw0/657033.wav|Where you are right now doesn't have to determine
+output_data/8ZZ6GrzWkw0/659066.wav|where you'll end up.
+output_data/8ZZ6GrzWkw0/661200.wav|No one's written your destiny for you,
+output_data/8ZZ6GrzWkw0/663433.wav|because here in America, you write your own destiny.
+output_data/8ZZ6GrzWkw0/666467.wav|You make your own future.
+output_data/8ZZ6GrzWkw0/669233.wav|That's what young people like you are doing every day,
+output_data/8ZZ6GrzWkw0/672166.wav|all across America.
+output_data/8ZZ6GrzWkw0/674667.wav|Young people like Jazmin Perez, from Roma, Texas.
+output_data/8ZZ6GrzWkw0/678633.wav|Jazmin didn't speak English when she first started school.
+output_data/8ZZ6GrzWkw0/682266.wav|Neither of her parents had gone to college.
+output_data/8ZZ6GrzWkw0/684633.wav|But she worked hard, earned good grades,
+output_data/8ZZ6GrzWkw0/687000.wav|and got a scholarship to Brown University -- is
+output_data/8ZZ6GrzWkw0/689567.wav|now in graduate school, studying public
+output_data/8ZZ6GrzWkw0/691433.wav|health, on her way to becoming Dr. Jazmin Perez.
+output_data/8ZZ6GrzWkw0/697166.wav|I'm thinking about Andoni Schultz, from Los Altos,
+output_data/8ZZ6GrzWkw0/700967.wav|California, who's fought brain cancer since he was three.
+output_data/8ZZ6GrzWkw0/706367.wav|He's had to endure all sorts of treatments and surgeries,
+output_data/8ZZ6GrzWkw0/709867.wav|one of which affected his memory,
+output_data/8ZZ6GrzWkw0/711767.wav|so it took him much longer -- hundreds of extra hours --
+output_data/8ZZ6GrzWkw0/714467.wav|to do his schoolwork.
+output_data/8ZZ6GrzWkw0/716900.wav|But he never fell behind.
+output_data/8ZZ6GrzWkw0/719166.wav|He's headed to college this fall.
+output_data/8ZZ6GrzWkw0/722333.wav|And then there's Shantell Steve, from my
+output_data/8ZZ6GrzWkw0/724200.wav|hometown of Chicago, Illinois.
+output_data/8ZZ6GrzWkw0/726834.wav|Even when bouncing from foster home to foster home in the
+output_data/8ZZ6GrzWkw0/729834.wav|toughest neighborhoods in the city,
+output_data/8ZZ6GrzWkw0/732333.wav|she managed to get a job at a local health care center,
+output_data/8ZZ6GrzWkw0/735734.wav|start a program to keep young people out of gangs,
+output_data/8ZZ6GrzWkw0/738667.wav|and she's on track to graduate high school with honors and
+output_data/8ZZ6GrzWkw0/741033.wav|go on to college.
+output_data/8ZZ6GrzWkw0/743600.wav|And Jazmin, Andoni, and Shantell aren't any different
+output_data/8ZZ6GrzWkw0/748433.wav|from any of you.
+output_data/8ZZ6GrzWkw0/750233.wav|They face challenges in their lives just like you do.
+output_data/8ZZ6GrzWkw0/753667.wav|In some cases they've got it a lot worse off than many of you.
+output_data/8ZZ6GrzWkw0/758700.wav|But they refused to give up.
+output_data/8ZZ6GrzWkw0/761033.wav|They chose to take responsibility for their lives,
+output_data/8ZZ6GrzWkw0/764200.wav|for their education, and set goals for themselves.
+output_data/8ZZ6GrzWkw0/766900.wav|And I expect all of you to do the same.
+output_data/8ZZ6GrzWkw0/770700.wav|That's why today I'm calling on each of you to set your own
+output_data/8ZZ6GrzWkw0/772867.wav|goals for your education -- and do everything
+output_data/8ZZ6GrzWkw0/775533.wav|you can to meet them.
+output_data/8ZZ6GrzWkw0/777600.wav|Your goal can be something as simple as doing all your
+output_data/8ZZ6GrzWkw0/780233.wav|homework, paying attention in class,
+output_data/8ZZ6GrzWkw0/783066.wav|or spending some time each day reading a book.
+output_data/8ZZ6GrzWkw0/788367.wav|Maybe you'll decide to get involved in an extracurricular
+output_data/8ZZ6GrzWkw0/790600.wav|activity, or volunteer in your community.
+output_data/8ZZ6GrzWkw0/794000.wav|Maybe you'll decide to stand up for kids who are being teased or
+output_data/8ZZ6GrzWkw0/797033.wav|bullied because of who they are or how they look,
+output_data/8ZZ6GrzWkw0/801600.wav|because you believe, like I do, that all young people deserve a
+output_data/8ZZ6GrzWkw0/805433.wav|safe environment to study and learn.
+output_data/8ZZ6GrzWkw0/808967.wav|Maybe you'll decide to take better care of yourself so you
+output_data/8ZZ6GrzWkw0/810967.wav|can be more ready to learn.
+output_data/8ZZ6GrzWkw0/813467.wav|And along those lines, by the way,
+output_data/8ZZ6GrzWkw0/814700.wav|I hope all of you are washing your hands a lot,
+output_data/8ZZ6GrzWkw0/817734.wav|and that you stay home from school when you don't feel well,
+output_data/8ZZ6GrzWkw0/819767.wav|so we can keep people from getting the flu
+output_data/8ZZ6GrzWkw0/822367.wav|this fall and winter.
+output_data/8ZZ6GrzWkw0/824633.wav|But whatever you resolve to do, I want you to commit to it.
+output_data/8ZZ6GrzWkw0/829000.wav|I want you to really work at it.
+output_data/8ZZ6GrzWkw0/831667.wav|I know that sometimes you get that sense from TV that you can
+output_data/8ZZ6GrzWkw0/834100.wav|be rich and successful without any hard work -- that your
+output_data/8ZZ6GrzWkw0/837533.wav|ticket to success is through rapping or basketball
+output_data/8ZZ6GrzWkw0/840867.wav|or being a reality TV star.
+output_data/8ZZ6GrzWkw0/845400.wav|Chances are you're not going to be any of those things.
+output_data/8ZZ6GrzWkw0/849266.wav|The truth is, being successful is hard.
+output_data/8ZZ6GrzWkw0/854100.wav|You won't love every subject that you study.
+output_data/8ZZ6GrzWkw0/858367.wav|You won't click with every teacher that you have.
+output_data/8ZZ6GrzWkw0/862800.wav|Not every homework assignment will seem completely relevant to
+output_data/8ZZ6GrzWkw0/866834.wav|your life right at this minute.
+output_data/8ZZ6GrzWkw0/870433.wav|And you won't necessarily succeed at everything the first
+output_data/8ZZ6GrzWkw0/873800.wav|time you try. That's okay.
+output_data/8ZZ6GrzWkw0/877967.wav|Some of the most successful people in the world are the ones
+output_data/8ZZ6GrzWkw0/880333.wav|who've had the most failures.
+output_data/8ZZ6GrzWkw0/884467.wav|J.K. Rowling's -- who wrote Harry Potter -- her first
+output_data/8ZZ6GrzWkw0/889834.wav|Harry Potter book was rejected 12 times 
+output_data/8ZZ6GrzWkw0/893133.wav|before it was finally published.
+output_data/8ZZ6GrzWkw0/896166.wav|Michael Jordan was cut from his high school basketball team.
+output_data/8ZZ6GrzWkw0/900600.wav|He lost hundreds of games and missed thousands of
+output_data/8ZZ6GrzWkw0/903400.wav|shots during his career. But he once said,
+output_data/8ZZ6GrzWkw0/906400.wav|I have failed over and over and over again in my life.
+output_data/8ZZ6GrzWkw0/909934.wav|And that's why I succeed.
+output_data/8ZZ6GrzWkw0/914000.wav|These people succeeded because they understood that you can't
+output_data/8ZZ6GrzWkw0/918233.wav|let your failures define you -- you have to let
+output_data/8ZZ6GrzWkw0/920967.wav|your failures teach you.
+output_data/8ZZ6GrzWkw0/923333.wav|You have to let them show you what to do
+output_data/8ZZ6GrzWkw0/925233.wav|differently the next time.
+output_data/8ZZ6GrzWkw0/928133.wav|So if you get into trouble, that doesn't mean you're a
+output_data/8ZZ6GrzWkw0/930233.wav|troublemaker, it means you need to try harder to act right.
+output_data/8ZZ6GrzWkw0/936567.wav|If you get a bad grade, that doesn't mean you're stupid,
+output_data/8ZZ6GrzWkw0/938600.wav|it just means you need to spend more time studying.
+output_data/8ZZ6GrzWkw0/943600.wav|No one's born being good at all things.
+output_data/8ZZ6GrzWkw0/946934.wav|You become good at things through hard work.
+output_data/8ZZ6GrzWkw0/951400.wav|You're not a varsity athlete the first time you play a new sport.
+output_data/8ZZ6GrzWkw0/954467.wav|You don't hit every note the first time you sing a song.
+output_data/8ZZ6GrzWkw0/957200.wav|You've got to practice.
+output_data/8ZZ6GrzWkw0/959033.wav|The same principle applies to your schoolwork.
+output_data/8ZZ6GrzWkw0/963000.wav|You might have to do a math problem a few times before you
+output_data/8ZZ6GrzWkw0/965400.wav|get it right.
+output_data/8ZZ6GrzWkw0/966433.wav|You might have to read something a few times
+output_data/8ZZ6GrzWkw0/967967.wav|before you understand it.
+output_data/8ZZ6GrzWkw0/969800.wav|You definitely have to do a few drafts of a paper before it's
+output_data/8ZZ6GrzWkw0/973133.wav|good enough to hand in.
+output_data/8ZZ6GrzWkw0/976800.wav|Don't be afraid to ask questions.
+output_data/8ZZ6GrzWkw0/978900.wav|Don't be afraid to ask for help when you need it.
+output_data/8ZZ6GrzWkw0/981200.wav|I do that every day.
+output_data/8ZZ6GrzWkw0/983767.wav|Asking for help isn't a sign of weakness,
+output_data/8ZZ6GrzWkw0/985400.wav|it's a sign of strength because it shows you have the courage to
+output_data/8ZZ6GrzWkw0/988400.wav|admit when you don't know something,
+output_data/8ZZ6GrzWkw0/990767.wav|and that then allows you to learn something new.
+output_data/8ZZ6GrzWkw0/994934.wav|So find an adult that you trust -- a parent,
+output_data/8ZZ6GrzWkw0/997233.wav|a grandparent or teacher, a coach or a counselor -- and ask
+output_data/8ZZ6GrzWkw0/1001200.wav|them to help you stay on track to meet your goals.
+output_data/8ZZ6GrzWkw0/1006166.wav|And even when you're struggling, even when you're discouraged,
+output_data/8ZZ6GrzWkw0/1009233.wav|and you feel like other people have given up on you,
+output_data/8ZZ6GrzWkw0/1013033.wav|don't ever give up on yourself, because when you give up on
+output_data/8ZZ6GrzWkw0/1016834.wav|yourself, you give up on your country.
+output_data/8ZZ6GrzWkw0/1021233.wav|The story of America isn't about people who quit
+output_data/8ZZ6GrzWkw0/1023400.wav|when things got tough.
+output_data/8ZZ6GrzWkw0/1025333.wav|It's about people who kept going, who tried harder,
+output_data/8ZZ6GrzWkw0/1027567.wav|who loved their country too much to do anything
+output_data/8ZZ6GrzWkw0/1029934.wav|less than their best.
+output_data/8ZZ6GrzWkw0/1032300.wav|It's the story of students who sat where you sit 250 years ago,
+output_data/8ZZ6GrzWkw0/1036867.wav|and went on to wage a revolution and they founded this nation.
+output_data/8ZZ6GrzWkw0/1040367.wav|Young people.
+output_data/8ZZ6GrzWkw0/1042633.wav|Students who sat where you sit 75 years ago who overcame a
+output_data/8ZZ6GrzWkw0/1045800.wav|Depression and won a world war; who fought for civil rights and
+output_data/8ZZ6GrzWkw0/1049967.wav|put a man on the moon.
+output_data/8ZZ6GrzWkw0/1052333.wav|Students who sat where you sit 20 years ago who founded Google
+output_data/8ZZ6GrzWkw0/1055633.wav|and Twitter and Facebook and changed the way we communicate
+output_data/8ZZ6GrzWkw0/1058734.wav|with each other.
+output_data/8ZZ6GrzWkw0/1061533.wav|So today, I want to ask all of you,
+output_data/8ZZ6GrzWkw0/1064633.wav|what's your contribution going to be?
+output_data/8ZZ6GrzWkw0/1067400.wav|What problems are you going to solve?
+output_data/8ZZ6GrzWkw0/1070333.wav|What discoveries will you make?
+output_data/8ZZ6GrzWkw0/1074300.wav|What will a President who comes here in 20 or 50 or 100 years
+output_data/8ZZ6GrzWkw0/1077333.wav|say about what all of you did for this country?
+output_data/8ZZ6GrzWkw0/1082133.wav|Now, your families, your teachers,
+output_data/8ZZ6GrzWkw0/1083800.wav|and I are doing everything we can to make sure you have the
+output_data/8ZZ6GrzWkw0/1086433.wav|education you need to answer these questions.
+output_data/8ZZ6GrzWkw0/1090000.wav|I'm working hard to fix up your classrooms and get you the books
+output_data/8ZZ6GrzWkw0/1092700.wav|and the equipment and the computers you need to learn.
+output_data/8ZZ6GrzWkw0/1096300.wav|But you've got to do your part, too.
+output_data/8ZZ6GrzWkw0/1099266.wav|So I expect all of you to get serious this year.
+output_data/8ZZ6GrzWkw0/1104033.wav|I expect you to put your best effort into everything you do.
+output_data/8ZZ6GrzWkw0/1108367.wav|I expect great things from each of you.
+output_data/8ZZ6GrzWkw0/1112867.wav|So don't let us down.
+output_data/8ZZ6GrzWkw0/1115000.wav|Don't let your family down or your country down.
+output_data/8ZZ6GrzWkw0/1117400.wav|Most of all, don't let yourself down.
+output_data/8ZZ6GrzWkw0/1121400.wav|Make us all proud.
+output_data/8ZZ6GrzWkw0/1123400.wav|Thank you very much, everybody.
+output_data/8ZZ6GrzWkw0/1124967.wav|God bless you.
+output_data/8ZZ6GrzWkw0/1125667.wav|God bless America.
+output_data/8ZZ6GrzWkw0/1128367.wav|Thank you.
