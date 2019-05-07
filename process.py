@@ -1,4 +1,5 @@
 import os
+import time
 import xml.etree.ElementTree as ET
 
 from pydub import AudioSegment
@@ -43,12 +44,14 @@ def process_data():
 def process_videos(video_data):
 	for (video_url, video_start, video_end) in video_data:
 		video_id = video_url[video_url.find('v=') + 2:]
-		print('Downloading {}\n\n'.format(video_url))
+		print('Downloading {}'.format(video_url))
 		download_audio(video_url)
 		download_timestamp(video_id, video_url)
 
-		print('Creating wavs {}\n\n'.format(video_url))
+		print('Creating wavs {}'.format(video_url))
 		create_wavs(video_id, video_start, video_end)
+
+		time.sleep(2)
 
 	print('Done.')
 
@@ -63,6 +66,9 @@ def download_timestamp(video_id, video_url):
 		xml_output.write(response.content)
 
 def create_wavs(video_id, video_start, video_end):
+	if os.path.exists('output_data/{}'.format(video_id)):
+		return
+
 	os.mkdir('output_data/{}'.format(video_id))
 	video_wav = AudioSegment.from_wav("input_data/wavs/{}.wav".format(video_id))
 
@@ -79,10 +85,10 @@ def create_wavs(video_id, video_start, video_end):
 		child_start = float(child.attrib['start']) * 1000 # convert to milliseconds
 		child_end = child_start + float(child.attrib['dur']) * 1000 # convert to milliseconds
 
-		if child_start < video_start * 1000:
+		if child_start < video_start * 60 * 1000:
 			continue
 
-		if child_end > video_end * 1000:
+		if child_end > video_end * 60 * 1000:
 			continue
 
 		child_text = child_text.replace(QUOTE, '')
