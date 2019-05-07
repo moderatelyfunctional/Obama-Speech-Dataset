@@ -632,3 +632,362 @@ output_data/8ZZ6GrzWkw0/1074300.wav|What will a President who comes here in 20 o
 output_data/8ZZ6GrzWkw0/4767.wav|Secretary of education Arnie Duncan, White House staff,
 output_data/8ZZ6GrzWkw0/8800.wav|school board members, county board members,
 output_data/8ZZ6GrzWkw0/12166.wav|superintendent Dr. Patrick Murphy, senior staff,
+output_data/MxBdzH66wZo/1101.wav|The President: Thank you so much.
+output_data/MxBdzH66wZo/5438.wav|Thank you.
+output_data/MxBdzH66wZo/15815.wav|You're very kind.
+output_data/MxBdzH66wZo/16983.wav|Thank you very much.
+output_data/MxBdzH66wZo/19152.wav|Well, good morning.
+output_data/MxBdzH66wZo/20520.wav|Audience: Good morning.
+output_data/MxBdzH66wZo/21821.wav|The President: Giving all praise and honor to God for
+output_data/MxBdzH66wZo/24758.wav|bringing us together here this morning.
+output_data/MxBdzH66wZo/28461.wav|I want to thank everyone who helped organize this
+output_data/MxBdzH66wZo/30530.wav|breakfast, especially our co-chairs, Robert and Juan,
+output_data/MxBdzH66wZo/34901.wav|who embody the tradition of friendship, fellowship,
+output_data/MxBdzH66wZo/40473.wav|and prayer.
+output_data/MxBdzH66wZo/43443.wav|I will begin with a confession: I have always
+output_data/MxBdzH66wZo/47213.wav|felt a tinge of guilt motorcading up here at the
+output_data/MxBdzH66wZo/52452.wav|heart of D.C.'s rush hour.
+output_data/MxBdzH66wZo/58124.wav|I suspect that not all the commuters were blessing me
+output_data/MxBdzH66wZo/62429.wav|as they waited to get to work.
+output_data/MxBdzH66wZo/68067.wav|But it's for a good cause.
+output_data/MxBdzH66wZo/71438.wav|A National Prayer Brunch doesn't have the same ring
+output_data/MxBdzH66wZo/74340.wav|to it.
+output_data/MxBdzH66wZo/76943.wav|And Michelle and I are extremely honored,
+output_data/MxBdzH66wZo/79345.wav|as always, to be with so many friends,
+output_data/MxBdzH66wZo/82215.wav|with members of Congress, with faith leaders from
+output_data/MxBdzH66wZo/86686.wav|across the country and around the world,
+output_data/MxBdzH66wZo/88688.wav|to be with the Speaker, Leader.
+output_data/MxBdzH66wZo/93927.wav|I want thank Mark and Roma for their friendship and
+output_data/MxBdzH66wZo/97096.wav|their extraordinary story, and sharing those
+output_data/MxBdzH66wZo/100800.wav|inspiring words.
+output_data/MxBdzH66wZo/102302.wav|Andre, for sharing his remarkable gifts.
+output_data/MxBdzH66wZo/108842.wav|And on this occasion, I always enjoy reflecting on a
+output_data/MxBdzH66wZo/112011.wav|piece of scripture that's been meaningful to me or
+output_data/MxBdzH66wZo/115515.wav|otherwise sustained me throughout the year.
+output_data/MxBdzH66wZo/119519.wav|And lately, I've been thinking and praying on a
+output_data/MxBdzH66wZo/123690.wav|verse from Second Timothy: For God has not given us a
+output_data/MxBdzH66wZo/132432.wav|spirit of fear, but of power and of love
+output_data/MxBdzH66wZo/139138.wav|and of a sound mind.
+output_data/MxBdzH66wZo/144811.wav|For God has not given us a spirit of fear,
+output_data/MxBdzH66wZo/147580.wav|but of power and of love and of a sound mind.
+output_data/MxBdzH66wZo/156356.wav|We live in extraordinary times.
+output_data/MxBdzH66wZo/160426.wav|Times of extraordinary change.
+output_data/MxBdzH66wZo/164197.wav|We're surrounded by tectonic shifts in technology and in
+output_data/MxBdzH66wZo/169102.wav|our economy; by destructive conflict,
+output_data/MxBdzH66wZo/175375.wav|disruptions to our climate.
+output_data/MxBdzH66wZo/179212.wav|And it all reshapes the way we work and the way we live.
+output_data/MxBdzH66wZo/183116.wav|It's all amplified by a media that is unceasing,
+output_data/MxBdzH66wZo/187520.wav|and that feeds 24/7 on our ever-shrinking
+output_data/MxBdzH66wZo/193660.wav|attention spans.
+output_data/MxBdzH66wZo/197630.wav|And as a student of history, I often remind people that
+output_data/MxBdzH66wZo/200466.wav|the challenges that we face are not unique;
+output_data/MxBdzH66wZo/204337.wav|that in fact, the threats of previous eras -- civil war
+output_data/MxBdzH66wZo/208641.wav|or world war or cold war, depressions or famines --
+output_data/MxBdzH66wZo/215782.wav|those challenges put our own in perspective.
+output_data/MxBdzH66wZo/221087.wav|Moreover, I believe that our unique strengths as a nation
+output_data/MxBdzH66wZo/226459.wav|make us better equipped than others to harness this
+output_data/MxBdzH66wZo/229562.wav|change to work for us, rather than against us.
+output_data/MxBdzH66wZo/235568.wav|And yet, the sheer rapidity of change,
+output_data/MxBdzH66wZo/240540.wav|and the uncertainty that it brings, is real.
+output_data/MxBdzH66wZo/245178.wav|The hardship of a family trying to make ends meet.
+output_data/MxBdzH66wZo/250817.wav|Refugees fleeing from a war-torn home.
+output_data/MxBdzH66wZo/255154.wav|Those things are real.
+output_data/MxBdzH66wZo/259125.wav|Terrorism, eroding shorelines
+output_data/MxBdzH66wZo/263296.wav|-- those things are real.
+output_data/MxBdzH66wZo/267333.wav|Even the very progress that humanity has made,
+output_data/MxBdzH66wZo/270870.wav|the affluence, the stability that so many of us enjoy,
+output_data/MxBdzH66wZo/276709.wav|far greater prosperity than any previous generation of
+output_data/MxBdzH66wZo/283650.wav|humanity has experienced, shines a brighter light on
+output_data/MxBdzH66wZo/287954.wav|those who still struggle, reveal the gap in prospects
+output_data/MxBdzH66wZo/293693.wav|that exist for the children of the world.
+output_data/MxBdzH66wZo/299599.wav|And that gap between want and plenty,
+output_data/MxBdzH66wZo/302268.wav|it gives us vertigo.
+output_data/MxBdzH66wZo/305838.wav|It can make us afraid, not only of the possibility that
+output_data/MxBdzH66wZo/310877.wav|progress will stall, but that maybe we have more to lose.
+output_data/MxBdzH66wZo/322088.wav|And fear does funny things.
+output_data/MxBdzH66wZo/327694.wav|Fear can lead us to lash out against those who are
+output_data/MxBdzH66wZo/330863.wav|different, or lead us to try to get some sinister other
+output_data/MxBdzH66wZo/340073.wav|under control.
+output_data/MxBdzH66wZo/344277.wav|Alternatively, fear can lead us to succumb to despair,
+output_data/MxBdzH66wZo/349215.wav|or paralysis, or cynicism.
+output_data/MxBdzH66wZo/356856.wav|Fear can feed our most selfish impulses,
+output_data/MxBdzH66wZo/360927.wav|and erode the bonds of community.
+output_data/MxBdzH66wZo/366733.wav|It is a primal emotion -- fear
+output_data/MxBdzH66wZo/370269.wav|-- one that we all experience.
+output_data/MxBdzH66wZo/372905.wav|And it can be contagious, spreading through societies,
+output_data/MxBdzH66wZo/378811.wav|and through nations.
+output_data/MxBdzH66wZo/382048.wav|And if we let it consume us, the consequences of that
+output_data/MxBdzH66wZo/388988.wav|fear can be worse than any outward threat.
+output_data/MxBdzH66wZo/399966.wav|For me, and I know for so many of you,
+output_data/MxBdzH66wZo/407740.wav|faith is the great cure for fear.
+output_data/MxBdzH66wZo/417183.wav|Jesus is a good cure for fear.
+output_data/MxBdzH66wZo/422555.wav|God gives believers the power, the love,
+output_data/MxBdzH66wZo/428494.wav|the sound mind required to conquer any fear.
+output_data/MxBdzH66wZo/435501.wav|And what more important moment for that faith than
+output_data/MxBdzH66wZo/439105.wav|right now?
+output_data/MxBdzH66wZo/440106.wav|What better time than these changing,
+output_data/MxBdzH66wZo/445545.wav|tumultuous times to have Jesus standing beside us,
+output_data/MxBdzH66wZo/450349.wav|steadying our minds, cleansing our hearts,
+output_data/MxBdzH66wZo/455888.wav|pointing us towards what matters.
+output_data/MxBdzH66wZo/469035.wav|His love gives us the power to resist
+output_data/MxBdzH66wZo/475174.wav|fear's temptations.
+output_data/MxBdzH66wZo/478878.wav|He gives us the courage to reach out to others across
+output_data/MxBdzH66wZo/481447.wav|that divide, rather than push people away.
+output_data/MxBdzH66wZo/489822.wav|He gives us the courage to go against the conventional
+output_data/MxBdzH66wZo/492692.wav|wisdom and stand up for what's right,
+output_data/MxBdzH66wZo/497897.wav|even when it's not popular.
+output_data/MxBdzH66wZo/503703.wav|To stand up not just to our enemies but, sometimes,
+output_data/MxBdzH66wZo/505905.wav|to stand up to our friends.
+output_data/MxBdzH66wZo/512879.wav|He gives us the fortitude to sacrifice ourselves
+output_data/MxBdzH66wZo/518351.wav|for a larger cause.
+output_data/MxBdzH66wZo/521520.wav|Or to make tough decisions knowing that we can only
+output_data/MxBdzH66wZo/524123.wav|do our best.
+output_data/MxBdzH66wZo/529528.wav|Less of me, more of God.
+output_data/MxBdzH66wZo/534533.wav|And then, to have the courage to admit our
+output_data/MxBdzH66wZo/536636.wav|failings and our sins while pledging to learn from our
+output_data/MxBdzH66wZo/542942.wav|mistakes and to try to do better.
+output_data/MxBdzH66wZo/552118.wav|Certainly, during the course of this enormous privilege
+output_data/MxBdzH66wZo/558491.wav|to have served as the President of the United
+output_data/MxBdzH66wZo/561227.wav|States, that's what faith has done for me.
+output_data/MxBdzH66wZo/565064.wav|It helps me deal with the common,
+output_data/MxBdzH66wZo/567066.wav|everyday fears that we all share.
+output_data/MxBdzH66wZo/571003.wav|The main one I'm feeling right now is that our
+output_data/MxBdzH66wZo/573572.wav|children grow up too fast.
+output_data/MxBdzH66wZo/581314.wav|They're leaving.
+output_data/MxBdzH66wZo/584350.wav|That's a tough deal.
+output_data/MxBdzH66wZo/588020.wav|And so, as a parent, you're worrying about will some
+output_data/MxBdzH66wZo/591457.wav|harm befall them, how are they going to manage without
+output_data/MxBdzH66wZo/595227.wav|you, did you miss some central moment in their lives.
+output_data/MxBdzH66wZo/603369.wav|Will they call?
+output_data/MxBdzH66wZo/607773.wav|Or text?
+output_data/MxBdzH66wZo/614513.wav|Each day, we're fearful that God's purpose becomes
+output_data/MxBdzH66wZo/620987.wav|elusive, cloudy.
+output_data/MxBdzH66wZo/624256.wav|We try to figure out how we fit into his broader plan.
+output_data/MxBdzH66wZo/629128.wav|They're universal fears that we have,
+output_data/MxBdzH66wZo/633799.wav|and my faith helps me to manage those.
+output_data/MxBdzH66wZo/636736.wav|And then my faiths helps me to deal with some of the
+output_data/MxBdzH66wZo/640706.wav|unique elements of my job.
+output_data/MxBdzH66wZo/646612.wav|As one of the great departed heroes of our age,
+output_data/MxBdzH66wZo/649215.wav|Nelson Mandela, once said, I learned that courage was
+output_data/MxBdzH66wZo/652685.wav|not the absence of fear, but the triumph over it...
+output_data/MxBdzH66wZo/656789.wav|The brave man is not he who does not feel afraid,
+output_data/MxBdzH66wZo/660926.wav|but he who conquers that fear.
+output_data/MxBdzH66wZo/665331.wav|And certainly, there are times where I've had to
+output_data/MxBdzH66wZo/667600.wav|repeat that to myself while holding this office.
+output_data/MxBdzH66wZo/672571.wav|When you hear from a parade of experts,
+output_data/MxBdzH66wZo/674673.wav|just days after you're elected,
+output_data/MxBdzH66wZo/676575.wav|that another Great Depression is a very real
+output_data/MxBdzH66wZo/678978.wav|possibility -- that will get your attention.
+output_data/MxBdzH66wZo/686786.wav|When you tell a room full of young cadets that you've
+output_data/MxBdzH66wZo/692258.wav|made a decision to send them into harm's way,
+output_data/MxBdzH66wZo/696562.wav|knowing that some of them might not return safely --
+output_data/MxBdzH66wZo/701634.wav|that's sobering.
+output_data/MxBdzH66wZo/702635.wav|When you hold in your arms the mothers and fathers of
+output_data/MxBdzH66wZo/708707.wav|innocent children gunned down in their classroom --
+output_data/MxBdzH66wZo/712778.wav|that reminds you there's evil in the world.
+output_data/MxBdzH66wZo/717883.wav|And so you come to understand what President
+output_data/MxBdzH66wZo/719885.wav|Lincoln meant when he said that he'd been driven to his
+output_data/MxBdzH66wZo/724190.wav|knees by the overwhelming conviction that he had no
+output_data/MxBdzH66wZo/726959.wav|place else to go.
+output_data/MxBdzH66wZo/727960.wav|And so like every President, like every leader,
+output_data/MxBdzH66wZo/734967.wav|like every person, I've known fear.
+output_data/MxBdzH66wZo/740406.wav|But my faith tells me that I need not fear death;
+output_data/MxBdzH66wZo/748414.wav|that the acceptance of Christ promises everlasting
+output_data/MxBdzH66wZo/751383.wav|life and the washing away of sins.
+output_data/MxBdzH66wZo/763095.wav|If Scripture instructs me to put on the full armor of
+output_data/MxBdzH66wZo/767199.wav|God so that when trouble comes, I'm able to stand,
+output_data/MxBdzH66wZo/773973.wav|then surely I can face down these temporal setbacks,
+output_data/MxBdzH66wZo/778310.wav|surely I can battle back doubts,
+output_data/MxBdzH66wZo/780579.wav|surely I can rouse myself to action.
+output_data/MxBdzH66wZo/787987.wav|And should that faith waver, should I lose my way,
+output_data/MxBdzH66wZo/794894.wav|I have drawn strength not only from a remarkable wife,
+output_data/MxBdzH66wZo/803035.wav|not only from incredible colleagues and friends,
+output_data/MxBdzH66wZo/808240.wav|but I have drawn strength from witnessing all across
+output_data/MxBdzH66wZo/810910.wav|this country and all around this world, good people,
+output_data/MxBdzH66wZo/816815.wav|of all faiths, who do the Lord's work each and every day.
+output_data/MxBdzH66wZo/824256.wav|Who wield that power and love,
+output_data/MxBdzH66wZo/826625.wav|and sound mind to feed the hungry and heal the sick,
+output_data/MxBdzH66wZo/833999.wav|to teach our children and welcome the stranger.
+output_data/MxBdzH66wZo/842308.wav|Think about the extraordinary work of the
+output_data/MxBdzH66wZo/844543.wav|congregations and faith communities represented
+output_data/MxBdzH66wZo/846912.wav|here today.
+output_data/MxBdzH66wZo/848981.wav|Whether fighting global poverty or working to end
+output_data/MxBdzH66wZo/851951.wav|the scourge of human trafficking,
+output_data/MxBdzH66wZo/855321.wav|you are the leaders of what Pope Francis calls this
+output_data/MxBdzH66wZo/858023.wav|march of living hope.
+output_data/MxBdzH66wZo/863629.wav|When the Earth cleaves in Haiti, Christians, Sikhs,
+output_data/MxBdzH66wZo/869435.wav|and other faith groups sent volunteers to distribute
+output_data/MxBdzH66wZo/872404.wav|aid, tend to the wounded, rebuild homes
+output_data/MxBdzH66wZo/875374.wav|for the homeless.
+output_data/MxBdzH66wZo/878644.wav|When Ebola ravaged West Africa, Jewish, Christian,
+output_data/MxBdzH66wZo/882448.wav|Muslim groups responded to the outbreak to save lives.
+output_data/MxBdzH66wZo/888921.wav|And as the news fanned the flames of fear,
+output_data/MxBdzH66wZo/891390.wav|churches and mosques responded with a powerful
+output_data/MxBdzH66wZo/893959.wav|rebuke, welcoming survivors into their pews.
+output_data/MxBdzH66wZo/902568.wav|When nine worshippers were murdered in a Charleston
+output_data/MxBdzH66wZo/905304.wav|church basement, it was people of all faiths who
+output_data/MxBdzH66wZo/909174.wav|came together to wrap a shattered community in love
+output_data/MxBdzH66wZo/914313.wav|and understanding.
+output_data/MxBdzH66wZo/920085.wav|When Syrian refugees seek the sanctuary of our shores,
+output_data/MxBdzH66wZo/923122.wav|it's the faithful from synagogues, mosques,
+output_data/MxBdzH66wZo/925324.wav|temples, and churches who welcome them,
+output_data/MxBdzH66wZo/928627.wav|the first to offer blankets and food
+output_data/MxBdzH66wZo/930629.wav|and open their homes.
+output_data/MxBdzH66wZo/935934.wav|Even now, people of different faiths and beliefs
+output_data/MxBdzH66wZo/938470.wav|are coming together to help people suffering in Flint.
+output_data/MxBdzH66wZo/945978.wav|And then there's the most -- less spectacular,
+output_data/MxBdzH66wZo/948213.wav|more quiet efforts of congregations all across
+output_data/MxBdzH66wZo/952518.wav|this country just helping people.
+output_data/MxBdzH66wZo/958290.wav|Seeing God in others.
+output_data/MxBdzH66wZo/961493.wav|And we're driven to do this because we're driven by the
+output_data/MxBdzH66wZo/966732.wav|value that so many of our faiths teach us -- I am my
+output_data/MxBdzH66wZo/970736.wav|brother's keeper, I am my sister's keeper.
+output_data/MxBdzH66wZo/976608.wav|As Christians, we do this compelled by the Gospel of
+output_data/MxBdzH66wZo/979912.wav|Jesus -- the command to love God, and love one another.
+output_data/MxBdzH66wZo/988654.wav|And so, yes, like every person,
+output_data/MxBdzH66wZo/991223.wav|there are times where I'm fearful.
+output_data/MxBdzH66wZo/993225.wav|But my faith and, more importantly,
+output_data/MxBdzH66wZo/999231.wav|the faith that I've seen in so many of you,
+output_data/MxBdzH66wZo/1004770.wav|the God I see in you, that makes me inevitably hopeful
+output_data/MxBdzH66wZo/1010075.wav|about our future.
+output_data/MxBdzH66wZo/1012544.wav|I have seen so many who know that God has not given us a
+output_data/MxBdzH66wZo/1016048.wav|spirit of fear.
+output_data/MxBdzH66wZo/1018016.wav|He has given us power, and love, and a sound mind.
+output_data/MxBdzH66wZo/1024990.wav|We see that spirit in people like Pastor Saeed Abedini,
+output_data/MxBdzH66wZo/1028861.wav|imprisoned for no crime other than holding
+output_data/MxBdzH66wZo/1031130.wav|God in his heart.
+output_data/MxBdzH66wZo/1033499.wav|And last year, we prayed that he might be freed.
+output_data/MxBdzH66wZo/1036101.wav|And this year, we give thanks that he is home safe.
+output_data/MxBdzH66wZo/1047579.wav|We pray for God's protection for all around the world who
+output_data/MxBdzH66wZo/1051483.wav|are not free to practice their faith,
+output_data/MxBdzH66wZo/1054319.wav|including Christians who are persecuted,
+output_data/MxBdzH66wZo/1057289.wav|or who have been driven from their ancient homelands by
+output_data/MxBdzH66wZo/1059925.wav|unspeakable violence.
+output_data/MxBdzH66wZo/1064997.wav|And just as we call on other countries to respect the
+output_data/MxBdzH66wZo/1067566.wav|rights of religious minorities, we, too,
+output_data/MxBdzH66wZo/1072204.wav|respect the right of every single American to practice
+output_data/MxBdzH66wZo/1074673.wav|their faith freely.
+output_data/MxBdzH66wZo/1084249.wav|For this is what each of us is called on to do: To seek
+output_data/MxBdzH66wZo/1088520.wav|our common humanity in each other.
+output_data/MxBdzH66wZo/1091757.wav|To make sure our politics and our public discourse
+output_data/MxBdzH66wZo/1095360.wav|reflect that same spirit of love and sound mind.
+output_data/MxBdzH66wZo/1101667.wav|To assume the best in each other and not just the worst
+output_data/MxBdzH66wZo/1106872.wav|-- and not just at the National Prayer Breakfast.
+output_data/MxBdzH66wZo/1114146.wav|To begin each of our works from the shared belief that
+output_data/MxBdzH66wZo/1117015.wav|all of us want what's good and right for our country
+output_data/MxBdzH66wZo/1121587.wav|and our future.
+output_data/MxBdzH66wZo/1128894.wav|We can draw such strength from the quiet moments of
+output_data/MxBdzH66wZo/1131864.wav|heroism around us every single day.
+output_data/MxBdzH66wZo/1134633.wav|And so let me close with two such stories that I've come
+output_data/MxBdzH66wZo/1138136.wav|to know just over the past week.
+output_data/MxBdzH66wZo/1142808.wav|A week ago, I spoke at a ceremony held at the Israeli
+output_data/MxBdzH66wZo/1151850.wav|Embassy for the first time, honoring the courage of
+output_data/MxBdzH66wZo/1158290.wav|people who saved Jews during the Holocaust.
+output_data/MxBdzH66wZo/1160826.wav|And one of the recipients was the grandson -- or the
+output_data/MxBdzH66wZo/1172337.wav|son of an American soldier who had been captured
+output_data/MxBdzH66wZo/1179545.wav|by the Nazis.
+output_data/MxBdzH66wZo/1182347.wav|So a group of American soldiers are captured,
+output_data/MxBdzH66wZo/1187753.wav|and their captors ordered Jewish POWs
+output_data/MxBdzH66wZo/1191423.wav|to identify themselves.
+output_data/MxBdzH66wZo/1198397.wav|And one sergeant, a Christian named Roddie Edmonds,
+output_data/MxBdzH66wZo/1205170.wav|from Tennessee, ordered all American troops
+output_data/MxBdzH66wZo/1212277.wav|to report alongside them.
+output_data/MxBdzH66wZo/1217683.wav|They lined up in formation, approximately 200 of them,
+output_data/MxBdzH66wZo/1225824.wav|and the Nazi colonel said, I asked only for the Jewish
+output_data/MxBdzH66wZo/1229895.wav|POWs, and said, These can't all be Jewish.
+output_data/MxBdzH66wZo/1238136.wav|And Master Sergeant Edmonds stood there and said,
+output_data/MxBdzH66wZo/1245110.wav|We are all Jews.
+output_data/MxBdzH66wZo/1251416.wav|And the colonel took out his pistol and held it to the
+output_data/MxBdzH66wZo/1257489.wav|Master Sergeant's head and said,
+output_data/MxBdzH66wZo/1259591.wav|Tell me who the Jews are.
+output_data/MxBdzH66wZo/1261059.wav|And he repeated, We are all Jews.
+output_data/MxBdzH66wZo/1270302.wav|And faced with the choice of shooting all those soldiers,
+output_data/MxBdzH66wZo/1274006.wav|the Nazis relented.
+output_data/MxBdzH66wZo/1280512.wav|And so, through his moral clarity,
+output_data/MxBdzH66wZo/1283281.wav|through an act of faith, Sergeant Edmonds saved the
+output_data/MxBdzH66wZo/1287185.wav|lives of his Jewish brothers-in-arms.
+output_data/MxBdzH66wZo/1300899.wav|A second story.
+output_data/MxBdzH66wZo/1302000.wav|Just yesterday, some of you may be aware I visited a
+output_data/MxBdzH66wZo/1304803.wav|mosque in Baltimore to let our Muslim-American brothers
+output_data/MxBdzH66wZo/1313345.wav|and sisters know that they, too,
+output_data/MxBdzH66wZo/1317182.wav|are Americans and welcome here.
+output_data/MxBdzH66wZo/1326692.wav|And there I met a Muslim-American named
+output_data/MxBdzH66wZo/1328794.wav|Rami Nashashibi, who runs a nonprofit working for social
+output_data/MxBdzH66wZo/1333732.wav|change in Chicago.
+output_data/MxBdzH66wZo/1335167.wav|And he forms coalitions with churches and Latino groups
+output_data/MxBdzH66wZo/1341073.wav|and African Americans in this poor neighborhood
+output_data/MxBdzH66wZo/1344910.wav|in Chicago.
+output_data/MxBdzH66wZo/1345544.wav|And he told me how the day after the tragedy in
+output_data/MxBdzH66wZo/1349047.wav|San Bernardino happened, he took his three young children to
+output_data/MxBdzH66wZo/1353418.wav|a playground in the Marquette Park neighborhood,
+output_data/MxBdzH66wZo/1359024.wav|and while they were out, the time came for one of the
+output_data/MxBdzH66wZo/1362728.wav|five daily prayers that are essential
+output_data/MxBdzH66wZo/1366031.wav|to the Muslim tradition.
+output_data/MxBdzH66wZo/1369634.wav|And on any other day, he told me,
+output_data/MxBdzH66wZo/1371636.wav|he would have immediately put his rug out on the grass
+output_data/MxBdzH66wZo/1375240.wav|right there and prayed.
+output_data/MxBdzH66wZo/1376875.wav|But that day, he paused.
+output_data/MxBdzH66wZo/1381346.wav|He feared any unwelcome attention he might attract
+output_data/MxBdzH66wZo/1386118.wav|to himself and his children.
+output_data/MxBdzH66wZo/1387486.wav|And his seven year-old daughter asked him,
+output_data/MxBdzH66wZo/1394593.wav|What are you doing, Dad?
+output_data/MxBdzH66wZo/1397996.wav|Isn't it time to pray?
+output_data/MxBdzH66wZo/1403068.wav|And he thought of all the times he had told her the
+output_data/MxBdzH66wZo/1407239.wav|story of the day that Dr. Martin Luther King, Jr.,
+output_data/MxBdzH66wZo/1411710.wav|and Rabbi Robert Marx, and 700 other people marched
+output_data/MxBdzH66wZo/1417916.wav|to that very same park, enduring hatred and bigotry,
+output_data/MxBdzH66wZo/1422921.wav|dodging rocks and bottles, and hateful words,
+output_data/MxBdzH66wZo/1427659.wav|in order to challenge Chicago housing segregation,
+output_data/MxBdzH66wZo/1433465.wav|and to ask America to live up to our highest ideals.
+output_data/MxBdzH66wZo/1439037.wav|And so, at that moment, drawing from the courage of
+output_data/MxBdzH66wZo/1442073.wav|men of different religions, of a different time,
+output_data/MxBdzH66wZo/1448380.wav|Rami refused to teach his children to be afraid.
+output_data/MxBdzH66wZo/1453952.wav|Instead, he taught them to be a part of that legacy of
+output_data/MxBdzH66wZo/1456688.wav|faith and good conscience.
+output_data/MxBdzH66wZo/1458723.wav|I want them to understand that sometimes faith will be
+output_data/MxBdzH66wZo/1461893.wav|tested, he told me, and that we will be asked to
+output_data/MxBdzH66wZo/1465163.wav|show immense courage, like others have before us,
+output_data/MxBdzH66wZo/1469935.wav|to make our city, our country,
+output_data/MxBdzH66wZo/1472437.wav|and our world a better reflection of all our ideals.
+output_data/MxBdzH66wZo/1476975.wav|And he put down his rug and he prayed.
+output_data/MxBdzH66wZo/1486184.wav|Now, those two stories, they give me courage and they
+output_data/MxBdzH66wZo/1491089.wav|give me hope.
+output_data/MxBdzH66wZo/1493325.wav|And they instruct me in my own Christian faith.
+output_data/MxBdzH66wZo/1499097.wav|I can't imagine a moment in which that young American
+output_data/MxBdzH66wZo/1503034.wav|sergeant expressed his Christianity more profoundly
+output_data/MxBdzH66wZo/1507305.wav|than when, confronted by his own death,
+output_data/MxBdzH66wZo/1510475.wav|he said We are all Jews.
+output_data/MxBdzH66wZo/1517515.wav|I can't imagine a clearer expression of Jesus's teachings.
+output_data/MxBdzH66wZo/1525223.wav|I can't imagine a better expression of the peaceful
+output_data/MxBdzH66wZo/1529594.wav|spirit of Islam than when a Muslim father,
+output_data/MxBdzH66wZo/1532898.wav|filled with fear, drew from the example of a Baptist
+output_data/MxBdzH66wZo/1537035.wav|preacher and a Jewish rabbi to teach his children
+output_data/MxBdzH66wZo/1543642.wav|what God demands.
+output_data/MxBdzH66wZo/1552217.wav|For God has not given us a spirit of fear,
+output_data/MxBdzH66wZo/1558757.wav|but of power and of love and of a sound mind.
+output_data/MxBdzH66wZo/1565797.wav|I pray that by His grace, we all find the courage to set
+output_data/MxBdzH66wZo/1570568.wav|such examples in our own lives -- not just during
+output_data/MxBdzH66wZo/1576975.wav|this wonderful gathering and fellowship,
+output_data/MxBdzH66wZo/1580946.wav|not just in the public piety that we profess,
+output_data/MxBdzH66wZo/1587052.wav|but in those smaller moments when it's difficult,
+output_data/MxBdzH66wZo/1592390.wav|when we're challenged, when we're angry,
+output_data/MxBdzH66wZo/1597028.wav|when we're confronted with someone who doesn't agree
+output_data/MxBdzH66wZo/1599030.wav|with us, when no one is watching.
+output_data/MxBdzH66wZo/1605603.wav|I pray, as Roma* so beautifully said,
+output_data/MxBdzH66wZo/1609808.wav|that our differences ultimately are bridged;
+output_data/MxBdzH66wZo/1614679.wav|that the God that is in each of us comes together,
+output_data/MxBdzH66wZo/1622854.wav|and we don't divide.
+output_data/MxBdzH66wZo/1627625.wav|I pray that our leaders will always act with humility
+output_data/MxBdzH66wZo/1629761.wav|and generosity.
+output_data/MxBdzH66wZo/1632197.wav|I pray that my failings are forgiven.
+output_data/MxBdzH66wZo/1642707.wav|I pray that we will uphold our obligation to be good
+output_data/MxBdzH66wZo/1646344.wav|stewards of God's creation -- this beautiful planet.
+output_data/MxBdzH66wZo/1650882.wav|I pray that we will see every single child as our
+output_data/MxBdzH66wZo/1653651.wav|own, each worthy of our love and of our compassion.
+output_data/MxBdzH66wZo/1659324.wav|And I pray we answer Scripture's call to lift up
+output_data/MxBdzH66wZo/1661659.wav|the vulnerable, and to stand up for justice,
+output_data/MxBdzH66wZo/1665296.wav|and ensure that every human being lives in dignity.
+output_data/MxBdzH66wZo/1670835.wav|That's my prayer for this breakfast,
+output_data/MxBdzH66wZo/1672804.wav|and for this country, in the years to come.
+output_data/MxBdzH66wZo/1676441.wav|May God bless you, and may He continue to bless this
+output_data/MxBdzH66wZo/1678443.wav|country that we love.
