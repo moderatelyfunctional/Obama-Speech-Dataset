@@ -25,7 +25,7 @@ NEWLINE = '\n'
 
 def process_data():
 	video_data = []
-	with open('obama_speeches2.csv', 'r', errors='ignore') as input_csv:
+	with open('obama_speeches.csv', 'r', errors='ignore') as input_csv:
 		csv_fields = input_csv.readlines()[1:]
 		for line in csv_fields:
 			csv_arr = line.split(',')
@@ -45,13 +45,13 @@ def process_videos(video_data):
 	for (video_url, video_start, video_end) in video_data:
 		video_id = video_url[video_url.find('v=') + 2:]
 		print('Downloading {}'.format(video_url))
-		# download_audio(video_url)
-		# download_timestamp(video_id, video_url)
+		download_audio(video_url)
+		download_timestamp(video_id, video_url)
 
 		print('Creating wavs {}'.format(video_url))
 		create_wavs(video_id, video_start, video_end)
 
-		time.sleep(2)
+		time.sleep(0.5)
 
 	print('Done.')
 
