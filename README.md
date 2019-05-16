@@ -10,6 +10,9 @@ pip3 install -r requirements.txt
 python process.py
 ```
 
+#### Data Overview
+In total, there's around `28GB` of speech data spread out across 30K wav files that are 1-7 seconds long.
+
 #### Script Overview
 The script iterates through `obama_speeches.csv`, fetches each YouTube video, uses FFmpeg to convert it to audio. It then fetches the corresponding timestamps. Both are stored in the `input_data` directory.
 
